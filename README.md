@@ -1,2 +1,2 @@
-# HTML & CSS
-This is my repository for applications built with HTML and CSS
+# Web Development
+This is my repository for practising building applications using various web technologies
